@@ -1,2 +1,2 @@
 # Basic_Start
-Basic Steps to start a repository in Git
+MAKE CODING AS SIMPLE AS POSSIBLE.
